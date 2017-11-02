@@ -99,5 +99,6 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "proxy": "http://nestadmin.com"
 }
