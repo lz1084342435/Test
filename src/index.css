@@ -3,3 +3,16 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.ordertable{
+  
+}
+.ordertable .ordertitle{
+  margin-top:40px;
+  margin-left: 40px;
+  margin-right: 270px;
+  height:40px;
+  border: 1px solid #dcdcdc;
+  background: #f1f1f1;
+  line-height: 40px;
+  text-align: center;
+}
