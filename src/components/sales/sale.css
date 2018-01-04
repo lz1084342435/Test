@@ -1,0 +1,94 @@
+.order{
+    color:#333;
+}
+.order .header{
+    height: 148px;
+    border-bottom: 18px solid #f1f1f1;
+}
+.order .content{
+    padding: 24px !important;
+}
+.HeaderContent{
+    /* padding-left: 24px; */
+    /* padding-top: 24px; */
+    font-size: 14px;
+}
+
+.HeaderContent .bordered{
+    border-right: 24px solid #f1f1f1;
+    height:130px;
+    padding-top: 24px;
+    padding-left: 24px;
+}
+.HeaderContent .bordered .PaySum{
+    font-size: 24px !important;
+}
+.HeaderContent .unbordered{
+    padding-top: 24px;
+    padding-left: 24px;
+}
+.HeaderContent .unbordered .PaySum{
+    font-size: 24px !important;
+}
+.selectorInput{
+    width: 180px;
+    height:30px;
+}
+.onshipModal{
+    width: 500px;
+}
+.onAddmodal{
+    width: 700px;
+    text-align: center;
+}
+.onAddmodal .ant-modal-content {
+    width: 1050px;
+    margin-left: -150px;
+    margin-top: -120px;
+}
+.onAddmodal .ant-modal-header {
+    background: #2B3245;
+    color: #ffffff;
+}
+.onAddmodal .ant-modal-title{
+    color: #ffffff;
+    font-size: 16px;
+    margin: 0 auto;
+    display: table;
+}
+.ant-modal{
+    top: 150px;
+    margin-left: 300px;
+}
+.onshipModal .ant-modal-content {
+    width: 750px;
+}
+.onshipModal .ant-modal-header {
+    background: #2B3245;
+    color: #ffffff;
+}
+.ant-modal-close-x {
+    color: #ffffff;
+}
+.onshipModal .ant-modal-title{
+    color: #ffffff;
+    font-size: 16px;
+}
+.fontSize{
+    font-size: 14px;
+}
+.shipmentNumber{
+    font-size: 14px;
+}
+.addStyle{
+    padding:20px 20px;
+    font-size: 14px;
+}
+.addStyle .rowType{
+    margin-left:15px;
+    margin-top:15px;
+}
+.productstyle{
+    font-size: 14px;
+    position: relative;
+}

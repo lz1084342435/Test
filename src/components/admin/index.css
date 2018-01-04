@@ -1,0 +1,30 @@
+
+
+.home{
+    height: 100vh;
+
+}
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 16px;
+    cursor: pointer;
+    transition: color .3s;
+}
+.normal_image{
+    height:50px;
+    width:50px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:70px;
+}
+.small_image{
+    height:50px;
+    width:50px;
+    margin-top: 5px;
+    margin-left: 6px;
+    margin-bottom: 5px;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub{
+    background:#1D2333
+}
